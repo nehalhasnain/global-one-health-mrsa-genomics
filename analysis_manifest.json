@@ -1,0 +1,142 @@
+{
+  "archive_name": "ZENODO_MRSA_OneHealth",
+  "archive_version": "1.0.0",
+  "generated_at_utc": "2026-07-21T11:11:21+00:00",
+  "title": "Global One Health MRSA genomic sequence visibility at the human\u2013animal\u2013environment interface, 2015\u20132025",
+  "authors": [
+    "Nehal Hasnain",
+    "Muhammad Abdul Mannan",
+    "Sajjad Hossain"
+  ],
+  "pdg_snapshot": "PDG000000073.1234",
+  "primary_cohort": {
+    "collection_year_start": 2015,
+    "collection_year_end": 2025,
+    "records": 86947
+  },
+  "expected_headline_counts": {
+    "mrsa_marker_positive": 48161,
+    "nonhuman_records": 7183,
+    "unknown_source_records": 13914,
+    "countries_with_resolved_location": 115
+  },
+  "supplementary_tables": [
+    {
+      "table": "S1",
+      "description": "Full gene prevalence, omnibus tests, and pairwise ORs",
+      "files": [
+        "42_gene_master_by_source.csv",
+        "26_gene_prevalence_by_source.csv",
+        "27_gene_omnibus_tests.csv",
+        "28_gene_or_vs_human.csv"
+      ]
+    },
+    {
+      "table": "S2",
+      "description": "Contemporary 2020\u20132025 visibility by income",
+      "files": [
+        "37_visibility_by_income_2020_2025.csv"
+      ]
+    },
+    {
+      "table": "S3",
+      "description": "Human-isolate gene prevalence by income",
+      "files": [
+        "35_amr_by_income_human.csv"
+      ]
+    },
+    {
+      "table": "S4",
+      "description": "Source classification QC and exemplars",
+      "files": [
+        "38_source_classification_qa.csv",
+        "38b_source_classification_exemplars.csv"
+      ]
+    },
+    {
+      "table": "S5",
+      "description": "Geographic concentration",
+      "files": [
+        "39_geographic_concentration.csv"
+      ]
+    },
+    {
+      "table": "S6",
+      "description": "Regional visibility",
+      "files": [
+        "40_regional_visibility.csv"
+      ]
+    },
+    {
+      "table": "S7",
+      "description": "Window/date sensitivity",
+      "files": [
+        "41_window_sensitivity.csv",
+        "18_window_comparison_2020_2025_vs_2015_2025.csv"
+      ]
+    },
+    {
+      "table": "S8",
+      "description": "Gene burden by source",
+      "files": [
+        "29_gene_burden_by_source.csv"
+      ]
+    },
+    {
+      "table": "S9",
+      "description": "Country-level analysis dataset",
+      "files": [
+        "33_country_level_dataset.csv"
+      ]
+    },
+    {
+      "table": "S10",
+      "description": "Negative-binomial model",
+      "files": [
+        "34_negbin_visibility_by_income.csv"
+      ]
+    },
+    {
+      "table": "S11",
+      "description": "Metadata completeness and lag",
+      "files": [
+        "31_metadata_completeness_by_income.csv",
+        "32_submission_lag_by_income.csv"
+      ]
+    }
+  ],
+  "figures": [
+    "fig1_visibility_inequity.pdf",
+    "fig1_visibility_inequity.png",
+    "fig2_source_composition.pdf",
+    "fig2_source_composition.png",
+    "fig3_gene_heatmap.pdf",
+    "fig3_gene_heatmap.png",
+    "fig4_host_forest.pdf",
+    "fig4_host_forest.png",
+    "fig5_cluster_overlap.pdf",
+    "fig5_cluster_overlap.png",
+    "figS1_geographic_concentration.pdf",
+    "figS1_geographic_concentration.png",
+    "figS2_temporal_dynamics.pdf",
+    "figS2_temporal_dynamics.png",
+    "figS3_regional_visibility.pdf",
+    "figS3_regional_visibility.png"
+  ],
+  "scripts": [
+    "00_freeze_raw_sources.py",
+    "01_feasibility_ncbi_s_aureus.py",
+    "02_feasibility_mixed_source_clusters.py",
+    "03_window_choice_2020_2025_vs_2015_2025.py",
+    "04_source_stats.py",
+    "05_inequity.py",
+    "06_figures.py",
+    "07_appendix.py"
+  ],
+  "checks": {
+    "python_compile_returncode": 0,
+    "frozen_input_verify_returncode": 0,
+    "offline_appendix_run_returncode": 0
+  },
+  "reproducibility_note": "Scripts prefer frozen local public inputs; script 00 without --verify performs a live network refresh and can change results."
+}

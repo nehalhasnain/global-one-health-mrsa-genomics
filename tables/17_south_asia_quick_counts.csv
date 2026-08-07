@@ -1,0 +1,9 @@
+country,records,mrsa_marker_positive,nonhuman,sources
+Bangladesh,34,28,19,human_or_clinical:15;livestock:12;companion_animal:5;food:1;environment:1
+India,304,186,74,human_or_clinical:221;livestock:59;unknown:9;environment:7;food:5;companion_animal:3
+Pakistan,29,18,5,human_or_clinical:24;livestock:5
+Nepal,27,8,5,unknown:22;livestock:5
+Sri Lanka,92,50,0,human_or_clinical:92
+Afghanistan,0,0,0,
+Bhutan,0,0,0,
+Maldives,0,0,0,

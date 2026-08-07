@@ -1,0 +1,1 @@
+https://ftp.ncbi.nlm.nih.gov/pathogen/Results/Staphylococcus_aureus/PDG000000073.1234/AMR/PDG000000073.1234.amr.metadata.tsv

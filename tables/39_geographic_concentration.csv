@@ -1,0 +1,7 @@
+stratum,n_genomes,n_countries,gini_across_countries,top1_country,top1_share_pct,top3_share_pct,top5_share_pct,top10_share_pct
+all_sources,86219,115,0.885,United States,29.8,51.4,66.1,81.3
+mrsa_marker_positive,47553,96,0.886,United States,32.5,58.4,71.9,86.4
+livestock,4005,49,0.756,China,31.3,58.5,66.5,78.6
+companion_animal,930,20,0.748,Japan,43.0,72.7,81.3,95.2
+food,1815,39,0.793,China,37.9,63.9,75.2,85.2
+environment,433,24,0.781,China,52.4,74.1,83.1,91.5

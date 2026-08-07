@@ -1,0 +1,8 @@
+pattern,clusters,records_in_clusters
+human_livestock,115,2113
+human_companion,19,983
+human_food,26,850
+human_environment,47,1477
+livestock_food,29,698
+livestock_environment,26,932
+three_or_more_sources,21,1479

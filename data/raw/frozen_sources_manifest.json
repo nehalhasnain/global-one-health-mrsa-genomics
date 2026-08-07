@@ -1,0 +1,45 @@
+{
+  "frozen_at": "2026-07-09T22:13:14+06:00",
+  "pdg_snapshot": "PDG000000073.1234",
+  "ncbi": {
+    "metadata": {
+      "url": "https://ftp.ncbi.nlm.nih.gov/pathogen/Results/Staphylococcus_aureus/PDG000000073.1234/AMR/PDG000000073.1234.amr.metadata.tsv",
+      "http_last_modified": "Mon, 06 Jul 2026 14:16:07 GMT",
+      "uncompressed_bytes": 158559191,
+      "uncompressed_sha256": "76a5c657374e61a39361088d15fa91e915e8bd3cba7f73e3dffcc89e8767363d",
+      "local_file": "ncbi_s_aureus_amr_metadata.PDG000000073.1234.tsv.gz",
+      "local_gz_bytes": 12829563,
+      "local_gz_sha256": "e6903d7b9617d9f0d99f8e920b7b4dc20ed13f366a57edf149182b2de1976605"
+    },
+    "clusters": {
+      "url": "https://ftp.ncbi.nlm.nih.gov/pathogen/Results/Staphylococcus_aureus/PDG000000073.1234/Clusters/PDG000000073.1234.reference_target.all_isolates.tsv",
+      "http_last_modified": "Mon, 06 Jul 2026 14:14:11 GMT",
+      "uncompressed_bytes": 5841613,
+      "uncompressed_sha256": "7b5bb0540764b058cfbafc47e39cbf8c37a7236b2c9da3d6f984b2df046e0b1e",
+      "local_file": "ncbi_s_aureus_clusters_all_isolates.PDG000000073.1234.tsv.gz",
+      "local_gz_bytes": 697983,
+      "local_gz_sha256": "6fd74fc0205a0b0a9d21545b92048ac4cf42c76ca3dd279d8eb3910abaac6e29"
+    }
+  },
+  "worldbank": {
+    "api": "https://api.worldbank.org/v2",
+    "indicators": {
+      "SP.POP.TOTL": "Population, total",
+      "NY.GDP.PCAP.CD": "GDP per capita (current US$)",
+      "SH.XPD.CHEX.PC.CD": "Current health expenditure per capita (current US$)",
+      "SH.MED.PHYS.ZS": "Physicians (per 1,000 people)",
+      "SH.MED.BEDS.ZS": "Hospital beds (per 1,000 people)"
+    },
+    "year_range": [
+      2015,
+      2025
+    ],
+    "countries_file": "worldbank_countries.csv",
+    "countries_sha256": "b5fd00e1ab767ea0367950da27e1a7d528ed0313bb8832c0968415daa830b230",
+    "n_countries": 217,
+    "indicators_file": "worldbank_indicators.csv",
+    "indicators_sha256": "d45d826ec0a24efb110ae7d595a5488d6641f06954a53965215ab03811bfa277",
+    "n_indicator_rows": 10283
+  },
+  "worldbank_refrozen_at": "2026-07-09T22:54:29+06:00"
+}

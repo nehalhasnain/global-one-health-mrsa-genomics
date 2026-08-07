@@ -1,0 +1,4 @@
+term,IRR,ci_low,ci_high,p_value
+"C(income_group, Treatment(reference='High income'))[T.Upper middle income]",0.715,0.508,1.006,0.05436768218989657
+"C(income_group, Treatment(reference='High income'))[T.Lower middle income]",0.068,0.045,0.103,2.2809507152248526e-37
+"C(income_group, Treatment(reference='High income'))[T.Low income]",0.08,0.047,0.135,2.663978152081249e-21

@@ -1,0 +1,12 @@
+table,description,file(s)
+S1,"Full gene prevalence, omnibus tests, and pairwise ORs",42_gene_master_by_source.csv; 26_gene_prevalence_by_source.csv; 27_gene_omnibus_tests.csv; 28_gene_or_vs_human.csv
+S2,Contemporary 2020–2025 visibility by income,37_visibility_by_income_2020_2025.csv
+S3,Human-isolate gene prevalence by income,35_amr_by_income_human.csv
+S4,Source classification QC and exemplars,38_source_classification_qa.csv; 38b_source_classification_exemplars.csv
+S5,Geographic concentration,39_geographic_concentration.csv
+S6,Regional visibility,40_regional_visibility.csv
+S7,Window/date sensitivity,41_window_sensitivity.csv; 18_window_comparison_2020_2025_vs_2015_2025.csv
+S8,Gene burden by source,29_gene_burden_by_source.csv
+S9,Country-level analysis dataset,33_country_level_dataset.csv
+S10,Negative-binomial model,34_negbin_visibility_by_income.csv
+S11,Metadata completeness and lag,31_metadata_completeness_by_income.csv; 32_submission_lag_by_income.csv

@@ -1,0 +1,5 @@
+window,year_definition,start,end,records,mrsa_pct,nonhuman,nonhuman_pct,livestock,companion_animal,food,environment,unique_countries
+deposition_2020_2025,deposition_year,2020,2025,146304,54.45,10859,7.42,6648,1052,2381,778,141
+collection_2020_2025,collection_year,2020,2025,39840,47.71,3345,8.4,1836,497,702,310,91
+deposition_2015_2025,deposition_year,2015,2025,155137,55.31,11634,7.5,7143,1152,2454,885,149
+collection_2015_2025,collection_year,2015,2025,86947,55.39,7183,8.26,4005,930,1815,433,117

@@ -1,0 +1,7 @@
+source_category,total_records,mrsa_marker_positive,mecA_positive,mecC_positive,unique_countries,mrsa_marker_pct
+human_or_clinical,65850,41705,41575,130,108,63.33
+unknown,13914,3784,3675,109,40,27.2
+livestock,4005,1339,1322,17,49,33.43
+food,1815,595,595,0,39,32.78
+companion_animal,930,440,439,1,20,47.31
+environment,433,298,298,0,24,68.82

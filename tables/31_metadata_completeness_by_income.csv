@@ -1,0 +1,5 @@
+income_group,n,host_pct,source_pct,collection_date_pct
+High income,70700,81.6,71.3,100.0
+Upper middle income,12403,84.4,70.7,100.0
+Lower middle income,1535,92.9,73.9,100.0
+Low income,362,99.7,91.7,100.0

@@ -1,0 +1,61 @@
+source_category,field,raw_value,records
+human_or_clinical,host,Homo sapiens,64418
+human_or_clinical,host,Homo sapiens sapiens,277
+human_or_clinical,host,H sapiens,192
+human_or_clinical,host,Equus caballus,156
+human_or_clinical,host,Homo sapinens,117
+human_or_clinical,host,Oryctolagus cuniculus,74
+human_or_clinical,isolation_source,blood,9433
+human_or_clinical,isolation_source,not collected,7344
+human_or_clinical,isolation_source,throat,2388
+human_or_clinical,isolation_source,Nose,2333
+human_or_clinical,isolation_source,sputum,1645
+human_or_clinical,isolation_source,wound,1321
+livestock,host,Bos taurus,1256
+livestock,host,Sus scrofa,537
+livestock,host,cow,300
+livestock,host,cattle,231
+livestock,host,pig,226
+livestock,host,Sus scrofa domesticus,193
+livestock,isolation_source,Bacterial Isolate from bulk tank milk sample,547
+livestock,isolation_source,milk,472
+livestock,isolation_source,nasal cavity,274
+livestock,isolation_source,Bacterial Isolate from aseptic quarter milk sample,239
+livestock,isolation_source,nasal swab,178
+livestock,isolation_source,raw milk,116
+companion_animal,host,Felis catus,287
+companion_animal,host,Canis lupus familiaris,221
+companion_animal,host,horse,111
+companion_animal,host,cat,84
+companion_animal,host,dog,71
+companion_animal,host,Horse,25
+companion_animal,isolation_source,skin,76
+companion_animal,isolation_source,nasal swab,56
+companion_animal,isolation_source,catheteruria,53
+companion_animal,isolation_source,pituita,44
+companion_animal,isolation_source,equine,32
+companion_animal,isolation_source,puncture urine,31
+food,host,Homo sapiens,37
+food,host,dairy product,28
+food,host,Thryonomys swinderianus,28
+food,host,Holstein,21
+food,host,ready-to-eat food,13
+food,host,meat,8
+food,isolation_source,food,544
+food,isolation_source,Dairy farm,174
+food,isolation_source,Bulk tank milk,118
+food,isolation_source,milk,114
+food,isolation_source,Isolated from milk sample taken from dairy farm bulk milk tank,103
+food,isolation_source,Raw milk,93
+environment,host,environmental sample,92
+environment,host,Environment,4
+environment,host,Environment of nosocomial settings,4
+environment,host,Homo sapiens,3
+environment,host,none,2
+environment,host,environment,1
+environment,isolation_source,environment,65
+environment,isolation_source,Environment,44
+environment,isolation_source,environmental,43
+environment,isolation_source,water,39
+environment,isolation_source,wastewater,29
+environment,isolation_source,Medical hoist tower related instruments,23

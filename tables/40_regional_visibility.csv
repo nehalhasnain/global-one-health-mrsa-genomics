@@ -1,0 +1,8 @@
+region,records,pct_of_total,population_million,records_per_million,non_human_records,non_human_per_million,countries_with_genome,countries_total,coverage_pct
+Europe & Central Asia,33921,39.01,924.8,36.679,1911,2.0664,36,58,62.1
+North America,25980,29.88,376.9,68.936,618,1.6398,2,3,66.7
+East Asia & Pacific,18699,21.51,2361.1,7.92,3826,1.6205,12,37,32.4
+"Middle East, North Africa, Afghanistan & Pakistan",2213,2.55,797.8,2.774,170,0.2131,15,23,65.2
+Latin America & Caribbean,2195,2.52,657.6,3.338,181,0.2752,10,42,23.8
+Sub-Saharan Africa,1535,1.77,1258.8,1.219,255,0.2026,18,48,37.5
+South Asia,457,0.53,1662.6,0.275,98,0.0589,4,6,66.7

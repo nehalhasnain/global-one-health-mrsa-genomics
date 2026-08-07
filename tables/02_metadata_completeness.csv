@@ -1,0 +1,16 @@
+dataset,field,non_missing_n,total_n,non_missing_pct
+all_dates,country,136146,169116,80.5
+all_dates,host,118550,169116,70.1
+all_dates,source_or_source_type,99870,169116,59.05
+all_dates,collection_year,129378,169116,76.5
+all_dates,target_creation_year,169115,169116,100
+primary_collection_2015_2025,country,86219,86947,99.16
+primary_collection_2015_2025,host,71415,86947,82.14
+primary_collection_2015_2025,source_or_source_type,62177,86947,71.51
+primary_collection_2015_2025,collection_year,86947,86947,100
+primary_collection_2015_2025,target_creation_year,86946,86947,100
+sensitivity_analysis_year_2015_2025,country,92906,124904,74.38
+sensitivity_analysis_year_2015_2025,host,78344,124904,62.72
+sensitivity_analysis_year_2015_2025,source_or_source_type,66691,124904,53.39
+sensitivity_analysis_year_2015_2025,collection_year,86947,124904,69.61
+sensitivity_analysis_year_2015_2025,target_creation_year,124903,124904,100

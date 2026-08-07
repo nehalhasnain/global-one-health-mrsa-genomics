@@ -1,0 +1,14 @@
+metric,value
+latest_pdg,PDG000000073.1234
+run_date,2026-07-06T23:39:23+06:00
+total_ncbi_rows_all_dates,169116
+primary_rows_collection_year_2015_2025,86947
+sensitivity_rows_collection_or_target_year_2015_2025,124904
+primary_mrsa_marker_positive,48161
+primary_mecA_positive,47904
+primary_mecC_positive,257
+primary_unique_countries_parsed,115
+primary_unique_countries_matched_worldbank,97
+clusters_all_isolates_url_exists,TRUE
+metadata_url,https://ftp.ncbi.nlm.nih.gov/pathogen/Results/Staphylococcus_aureus/PDG000000073.1234/AMR/PDG000000073.1234.amr.metadata.tsv
+clusters_url,https://ftp.ncbi.nlm.nih.gov/pathogen/Results/Staphylococcus_aureus/PDG000000073.1234/Clusters/PDG000000073.1234.reference_target.all_isolates.tsv
