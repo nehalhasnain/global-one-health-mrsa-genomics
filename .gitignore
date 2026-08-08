@@ -5,3 +5,8 @@ __pycache__/
 *.tmp
 *.part
 .env
+
+CITATION.cff
+analysis_manifest.json
+SCRIPT_CODE_AUDIT.md
+CHECKSUMS_SHA256.txt

@@ -48,12 +48,9 @@ python scripts/07_appendix.py
 
 The `--verify` mode is offline. Scripts prefer the frozen inputs under `data/raw/` and the frozen processed file under `data/processed/`. Script `00` without `--verify` is the only intentional network-refresh operation and can produce a different analysis if providers revise their data.
 
-## Provenance and checksums
+## Provenance
 
 - `data/raw/frozen_sources_manifest.json` records the pinned NCBI URLs, World Bank source, sizes, and hashes.
-- `analysis_manifest.json` records the archive structure, expected headline counts, and package version.
-- `CHECKSUMS_SHA256.txt` provides SHA-256 checksums for every archived file except macOS metadata and caches.
-- `SCRIPT_CODE_AUDIT.md` records syntax and offline-regeneration checks performed before packaging.
 
 ## Citation
 
