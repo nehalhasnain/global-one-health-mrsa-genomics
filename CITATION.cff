@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this archive, cite the Zenodo DOI assigned to the deposited version."
+title: "Global One Health MRSA genomic sequence visibility at the human–animal–environment interface, 2015–2025"
+type: dataset
+version: 1.0.0
+authors:
+  - family-names: Hasnain
+    given-names: Nehal
+    orcid: "https://orcid.org/0009-0009-2648-1475"
+  - family-names: Mannan
+    given-names: Muhammad Abdul
+    orcid: "https://orcid.org/0000-0002-9626-2560"
+  - family-names: Hossain
+    given-names: Sajjad
